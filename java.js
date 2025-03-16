@@ -229,6 +229,6 @@ textElements.forEach((element) => {
   element.innerHTML = characterHTML
 })
 
-// kick off the render loop
+
 window.initBurst()
 render()
